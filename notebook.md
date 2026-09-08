@@ -3,17 +3,12 @@ At the top, begin a table of contents, Example..:
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
-  - [Testing Bookmarks].(#text-bkMrk)
-
-
-
-
-
-
+  - [Testing Bookmarks](#text-bkmrk)
 
  Add some space and then copy and paste all of the following to the end of your notebook to have the style guide and reference:
 
-# text bkMrk 
+### Text BkMrk
+Link must be ALL lowercase, even if linked text is not LowerCase
 
 ## Markdown Style Guide for Coding Notebooks
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
