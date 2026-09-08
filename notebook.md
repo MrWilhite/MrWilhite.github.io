@@ -3,17 +3,18 @@ At the top, begin a table of contents, Example..:
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
+  - [Testing Bookmarks].(#text-bkMrk)
+
+
+
+
+
+
 
  Add some space and then copy and paste all of the following to the end of your notebook to have the style guide and reference:
 
+# text bkMrk 
 
-
-
-
-
-
-
- 
 ## Markdown Style Guide for Coding Notebooks
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
 This ensures your notes are easy for you (and others) to read later.
